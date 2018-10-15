@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#112d4e</color>
+    <color name="colorPrimaryDark">#3f72af</color>
+    <color name="colorAccent">#dbe2ef</color>
+    <color name="white">#f9f7f7</color>
+    <color name="buttonP">#005792</color>
+    <color name="cancel">#cd5555</color>
+    <color name="accept">#a1c45a</color>
+</resources>

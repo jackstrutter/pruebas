@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_work"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Mis Trabajos" />
+        <item
+            android:id="@+id/nav_promotions"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Promociones" />
+        <item
+            android:id="@+id/nav_manuals"
+            android:icon="@android:drawable/ic_input_get"
+            android:title="Manuales" />
+
+        <item
+            android:id="@+id/nav_tutorial"
+            android:icon="@android:drawable/ic_menu_help"
+            android:title="Tutorial" />
+    </group>
+
+    <item android:title="Opciones">
+        <menu>
+            <item
+                android:id="@+id/nav_trouble"
+                android:icon="@android:drawable/ic_dialog_alert"
+                android:title="Reportar Problema" />
+            <item
+                android:id="@+id/nav_legal"
+                android:icon="@android:drawable/ic_secure"
+                android:title="Legal" />
+            <item
+                android:id="@+id/nav_session"
+                android:icon="@android:drawable/ic_menu_close_clear_cancel"
+                android:title="Cerrar Sesion" />
+
+        </menu>
+    </item>
+
+
+
+
+
+</menu>
